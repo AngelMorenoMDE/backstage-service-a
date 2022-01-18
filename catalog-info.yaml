@@ -11,4 +11,4 @@ spec:
   providesApis:
     - backstage-avro-a-to-b
   dependsOn:
-    - backstage-persistence-lib
+    - component:backstage-persistence-lib

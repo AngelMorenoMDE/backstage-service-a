@@ -10,3 +10,5 @@ spec:
   system: arquitectura-empresarial
   providesApis:
     - backstage-avro-a-to-b
+  dependsOn:
+    - backstage-persistence-lib
